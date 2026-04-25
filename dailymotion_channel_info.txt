@@ -1,41 +1,41 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+~~ SIN EDICIONES LAS PRIMERAS 2 LÍNEAS
+~~ FORMATO: <nombre del canal> | <nombre del grupo> | <logotipo> | <tvg-id>
 
-Metro TV | | |
-https://www.dailymotion.com/video/k236ofBIxajxDiti8CY
+Panamericana TV | PERÚ | |
+https://www.dailymotion.com/video/xa50i1c
 tvOne | | |
 https://www.dailymotion.com/video/k2A6i1fIfWpxZpoH4XD
-Action 24 | | |
+Acción 24 | | |
 https://www.dailymotion.com/video/x61fbhs
-BLUE SKY | | |
+CIELO AZUL | | |
 https://www.dailymotion.com/video/x7z731p
-Star Kentrikes Elladas | | |
+Estrella Kentrikes Elladas | | |
 https://www.dailymotion.com/video/xqjey2
 Kompas TV | | |
 https://www.dailymotion.com/video/k4ttBi7hCXzpArrvk82
 FENERBAHÇE TV | | |
 https://www.dailymotion.com/video/x61fbhs
-Euronews | | |
+Noticias europeas | | |
 https://www.dailymotion.com/video/x2j4h4m
-BEYAZ TV | | |
+TELEVISIÓN BEYAZ | | |
 https://www.dailymotion.com/video/x4kopfq
-France Info | France | |
+Información de Francia | Francia | |
 https://www.dailymotion.com/video/x4rdeu6
 Trans TV | | |
 https://www.dailymotion.com/video/x5b99vx
 24 TV | | |
 https://www.dailymotion.com/video/x648u9s
-360 | | |
+360||||
 https://www.dailymotion.com/video/x648uq8
-NUMBER ONE | | |
+NUEVO UNO | | |
 https://www.dailymotion.com/video/x67c77j
-NUMBER ONE TÜRK | | |
+NUEVO UNO TÜRK | | |
 https://www.dailymotion.com/video/x67cguc
-NUMBER ONE AŞK | | |
+NUEVO UNO AŞK | | |
 https://www.dailymotion.com/video/x67ch24
-NUMBER ONE DAMAR | | |
+DAMAR NÚMERO UNO | | |
 https://www.dailymotion.com/video/x67ch8g
-22 - Nation TV | | |
+22 - Televisión Nacional | | |
 https://www.dailymotion.com/video/x6eoldf
 Trans 7 | | |
 https://www.dailymotion.com/video/x6p1gw7
@@ -43,7 +43,7 @@ TELE 1 | | |
 https://www.dailymotion.com/video/x6uoseg
 NTV | | |
 https://www.dailymotion.com/video/x729weu
-Aswaja TV | | |
+Televisión Aswaja | | |
 https://www.dailymotion.com/video/x748iuo
 AL AAN TV | EG | |
 https://www.dailymotion.com/video/x74wje5
@@ -53,85 +53,85 @@ AL AAN TV | EG | |
 https://www.dailymotion.com/video/x77fuuq
 NESSMA | TN | |
 https://www.dailymotion.com/video/x7lmd4f
-CRTV | CM | |
+CRTV | CM||
 https://www.dailymotion.com/video/x7o9p4a
-CRTV News | CM | |
+Noticias de CRTV | CM | |
 https://www.dailymotion.com/video/x7q03jj
 BENGÜTÜRK TV | | |
 https://www.dailymotion.com/video/x7u0gfc
-BFM TV | France | |
+BFM TV | Francia | |
 https://www.dailymotion.com/video/xgz4t1
-TV3 Malaysia | | |
+TV3 Malasia | | |
 https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-inooroTV Kenya | East Africa | https://pbs.twimg.com/profile_images/653604405208461312/5CNNE6gT_400x400.jpg |
+inooroTV Kenia | África Oriental | https://pbs.twimg.com/profile_images/653604405208461312/5CNNE6gT_400x400.jpg |
 https://www.dailymotion.com/video/x81qb1p
 
-KamemeTV Kenya | East Africa | https://www.kamemetv.co.ke/wp-content/uploads/2020/08/Kameme-TV-Logo.png |
+KamemeTV Kenia | África Oriental | https://www.kamemetv.co.ke/wp-content/uploads/2020/08/Kameme-TV-Logo.png |
 https://www.dailymotion.com/video/x6ol8sj
 
-K24 TV Kenya | East Africa | https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/K24_Logo_Full_Grey.png/1200px-K24_Logo_Full_Grey.png |
+K24 TV Kenia | África Oriental | https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/K24_Logo_Full_Grey.png/1200px-K24_Logo_Full_Grey.png |
 https://www.dailymotion.com/video/x6lvncs
 
-KBC Channel 1 Kenya | East Africa | https://upload.wikimedia.org/wikipedia/en/8/86/KBC_Kenya.PNG |
+Canal 1 de KBC Kenia | África Oriental | https://upload.wikimedia.org/wikipedia/en/8/86/KBC_Kenya.PNG |
 https://www.dailymotion.com/video/x74211t
 
-Farmers TV Kenya | East Africa | |
+Farmers TV Kenia | África Oriental | |
 https://www.dailymotion.com/video/x7opfez
 
-Spice FM Kenya | East Africa | https://static-s.aa-cdn.net/img/gp/20600014627672/SpAqewsBd_hEAAqA-NW8gP40brrM1HZt09CCFLFdmwyc0mqJz6Fs8afF_wS7LtX695o=s300?v=1 |
+Spice FM Kenia | África Oriental | https://static-s.aa-cdn.net/img/gp/20600014627672/SpAqewsBd_hEAAqA-NW8gP40brrM1HZt09CCFLFdmwyc0mqJz6Fs8afF_wS7LtX695o=s300?v=1 |
 https://www.dailymotion.com/video/x7eo9oe
 
-KTN News Kenya| East Africa | http://www.standardmedia.co.ke/ktnnews/ktn-news/assets/images/logo.png |
+KTN News Kenia| África Oriental | http://www.standardmedia.co.ke/ktnnews/ktn-news/assets/images/logo.png |
 https://www.dailymotion.com/video/x7tz712
 
-EbruTV Kenya | East Africa | https://live-tv-channels.org/pt-data/uploads/logo/ke-ebru-tv-kenya.jpg |
+EbruTV Kenia | África Oriental | https://live-tv-channels.org/pt-data/uploads/logo/ke-ebru-tv-kenya.jpg |
 https://www.dailymotion.com/video/x67n3k1
 
-La Chaine L'Equipe | France | |
+La Chaine L'Equipe | Francia | |
 https://www.dailymotion.com/video/x2lefik
 
-CNEWS | France | |
+CNEWS | Francia | |
 https://www.dailymotion.com/video/x3b68jn
 
-C8 | France | |
+C8 | Francia | |
 https://www.dailymotion.com/video/x5gv5rr
 
-Canal + | France | |
+Canal + | Francia | |
 https://www.dailymotion.com/video/x5gv6be
 
-RTL (video feed of radio channel) | France | |
+RTL (transmisión de vídeo del canal de radio) | Francia | |
 https://www.dailymotion.com/video/xl1km0
 
-LCP (TNT) | France | |
+LCP (TNT) | Francia | |
 https://www.dailymotion.com/video/xji3qy
 
-LCP (100%) | France | |
+LCP (100%) | Francia | |
 https://www.dailymotion.com/video/xgepjr
 
-Public Senat | France | |
+Senado Público | Francia | |
 https://www.dailymotion.com/video/xkxbzc
 
-Mycomedy | France | |
+Mi comedia | Francia | |
 https://www.dailymotion.com/video/x7zw8t0
 
-Tv Vendée - Le Direct | France | |
+Tv Vendée - Le Direct | Francia | |
 https://www.dailymotion.com/video/x38yjeb
 
-Live dans les studios de Fun Radio | France | |
-https://www.dailymotion.com/video/xxtuy6
+Live dans les estudios de Fun Radio | Francia | |
+360||||
 
-Live téléGrenoble Isère | France | |
+En vivo téléGrenoble Isère | Francia | |
 https://www.dailymotion.com/video/x128fjo
 
-LMtv Sarthe en direct | France | |
+LMtv Sarthe en directo | Francia | |
 https://www.dailymotion.com/video/xuyx0h
 
-RADIO : Ecoutez et regardez Europe 1 en direct vidéo | France | |
-https://www.dailymotion.com/video/xqjkfz
+RADIO: Ecoutez et regardez Europa 1 en video directo | Francia | |
+https://www.dailymotion.com/video/x67ch8g
 
-8 Mont Blanc Live | France | |
-https://www.dailymotion.com/video/x3wqv8b
+NUEVO UNO | | |
+360||||
 
 Wéo direct Picardie | France | |
 https://www.dailymotion.com/video/x63085w
